@@ -24,11 +24,6 @@
 ### 2.	Move the z2-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z2-axis assembly.
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
-## OUTPUT:
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
-
 ## Output:
 ![Screenshot 2023-11-20 103728](https://github.com/hasnu0406/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/135305537/789d1979-2445-469d-8966-cc922ce6a141)
 ### BASE: the base in a delta 3D printer serves as the static structure that supports the printer's moving components, facilitating the precise and controlled movement required for 3D printing.
